@@ -31,6 +31,7 @@ the appropriate city name. Please also adapt the color scheme to something sensi
 so that some distinction is visible to other cities.
 
 # This is too complicated!
-GitHub is not the best solution for this, albeit the cheapest and fastest.
+This system is not the best solution for this - albeit the cheapest and fastest,
+non-CS students will probably not know how to use this. But do not give up, we still need your help!
 If you can't be bothered with this, just drop us your structured input
-and we will be happy to include it: [felix.wolff2@student.hpi.de](mailto:felix.wolff2@student.hpi.de)
+and we will be happy to do the lifting ourselves: [felix.wolff2@student.hpi.de](mailto:felix.wolff2@student.hpi.de)
